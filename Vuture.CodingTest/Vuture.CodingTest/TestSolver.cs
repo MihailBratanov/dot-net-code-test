@@ -6,8 +6,14 @@ using System.Text.RegularExpressions;
 
 namespace Vuture.CodingTest
 {
+    /**
+     * This is the TestSolver class. It contains all the methods that the coding test requires to be solved.
+     */
     public class TestSolver
     {
+        /*
+         * Constructor for the TestSolver class
+         */
         public TestSolver()
         {
         }

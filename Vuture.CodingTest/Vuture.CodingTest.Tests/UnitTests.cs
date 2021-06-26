@@ -41,6 +41,11 @@ namespace Vuture.CodingTest.Tests
             Assert.AreEqual(ToAssertableString(expected), ToAssertableString(result3A));
 
         }
+        /**
+         * Helper method that transforms a Dictionary into a string
+         * Params: Dictionary<string,int> dict;
+         * Returns: String s
+         */
         public string ToAssertableString(Dictionary<string, int> dict)
         {
             var strings = dict.OrderBy(p => p.Key).Select(p => p.Key + ": " + string.Join(", ", p.Value));

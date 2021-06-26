@@ -1,18 +1,18 @@
 ﻿<Properties StartupConfiguration="{ABFC5709-B3A0-42A5-AE39-36046155E18C}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Vuture.CodingTest.Tests/UnitTests.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Vuture.CodingTest/TestSolver.cs">
     <Files>
-      <File FileName="Vuture.CodingTest/Program.cs" Line="29" Column="14" />
-      <File FileName="Vuture.CodingTest.Tests/UnitTests.cs" Line="8" Column="1" />
-      <File FileName="Vuture.CodingTest/TestSolver.cs" Line="11" Column="10" />
+      <File FileName="Vuture.CodingTest.Tests/UnitTests.cs" Line="69" Column="15" />
+      <File FileName="Vuture.CodingTest/Program.cs" />
+      <File FileName="Vuture.CodingTest/TestSolver.cs" Line="10" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Vuture.CodingTest" expanded="True">
-            <Node name="Vuture.CodingTest" expanded="True" />
-            <Node name="Vuture.CodingTest.Tests" expanded="True">
-              <Node name="UnitTests.cs" selected="True" />
+            <Node name="Vuture.CodingTest" expanded="True">
+              <Node name="TestSolver.cs" selected="True" />
             </Node>
+            <Node name="Vuture.CodingTest.Tests" expanded="True" />
           </Node>
         </State>
       </Pad>
@@ -20,6 +20,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Vuture.CodingTest.Tests PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
